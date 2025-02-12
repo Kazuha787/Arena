@@ -237,7 +237,7 @@ const rl = readline.createInterface({
 
 async function main() {
     console.clear();
-    console.log(`${colors.yellow}${colors.bright}\n=== ArenaQuest Bot | AirdropInsiders ===\n${colors.reset}`);
+    console.log(`${colors.yellow}${colors.bright}\n=== ArenaQuest Bot | Kazuha787 ===\n${colors.reset}`);
     
     try {
         const bot = new ArenaQuestBot();
